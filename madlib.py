@@ -4,11 +4,11 @@ import random
 def madlib():
     stories = [
 
-        "📜 Once upon a time, a {adjective1} {noun1} decided to {verb1} to {place1}. \nAlong the way, they met a {adjective2} {noun2} who offered them a {noun3}. \nTogether, they {verb2} to the {place2} and lived {adverb1} ever after.",
+        "📜 Once upon a time, a {adjective1} {noun1} decided to {verb1} to {place1}. \nAlong the way, they met a {adjective2} {noun2} who offered them a {noun3}. \nTogether 🙏, they {verb2} to the {place2} and lived {adverb1} ever after 🤗.",
         
-        "In a {adjective1} kingdom, there lived a {noun1} who could {verb1} with \n{adjective2} {noun2}. One day, they stumbled upon a {adjective3} {noun3} and \ndecided to {verb2} it. Little did they know, it would lead them on an \n{adjective4} adventure filled with {noun4} and {noun5}.",
+        "In a {adjective1} kingdom 🏰, there lived a {noun1} who could {verb1} with \n{adjective2} {noun2}. One day 🌼, they stumbled upon a {adjective3} {noun3} and \ndecided to {verb2} it. Little did they know, it would lead them on an \n{adjective4} adventure filled with {noun4} and {noun5} 😮.",
         
-        "Deep in the {adjective1} forest, there was a {adjective2} {noun1} who \n{verb1} all day long. One {noun2}, they discovered a {adjective3} {noun3} hidden \nbehind a {noun4}. Inside, they found a {noun5} that granted them {adjective4} powers. \nWith their newfound abilities, they {verb2} to {place1} and became {adverb1} famous."
+        "Deep in the {adjective1} forest🌲🌳, there was a {adjective2} {noun1} who \n{verb1} all day long. One {noun2}, they discovered a {adjective3} {noun3} hidden 🫥 \nbehind a {noun4}. Inside, they found a {noun5} that granted them {adjective4} powers 💪. \nWith their newfound abilities, they {verb2} to {place1} and became {adverb1} famous 🤩😍."
 
 
 
